@@ -1,0 +1,6 @@
+/tmp/*
+/functions/__pycache__/*
+/test*.py
+/*.txt
+/BOOKMARKS/*
+/bookmarks.txt
