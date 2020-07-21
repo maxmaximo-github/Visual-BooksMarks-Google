@@ -1,0 +1,462 @@
+{
+   "checksum": "ee327409d04445d1f4f55fff0b06aad2",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13063923296346115",
+            "id": "5",
+            "name": "DepositFiles",
+            "type": "url",
+            "url": "http://depositfiles.org/files/vjd3a10dy"
+         }, {
+            "date_added": "13063939059031140",
+            "id": "6",
+            "name": "Creating a Hyper-V Generation 2 VHDX file with PowerShell",
+            "type": "url",
+            "url": "http://www.altaro.com/hyper-v/creating-generation-2-disk-powershell/"
+         }, {
+            "date_added": "13063939274493705",
+            "id": "7",
+            "name": "Last pieces of the puzzle converting diskpart script to PowerShell storage cmdlets",
+            "type": "url",
+            "url": "https://social.technet.microsoft.com/Forums/scriptcenter/en-US/4f04df47-8bd6-4fff-bd79-8d3b45c23f8a/last-pieces-of-the-puzzle-converting-diskpart-script-to-powershell-storage-cmdlets?forum=ITCG"
+         }, {
+            "date_added": "13063947491776705",
+            "id": "8",
+            "name": "Windows PowerShell: Definición de parámetros | TechNet Magazine",
+            "type": "url",
+            "url": "http://technet.microsoft.com/es-es/magazine/jj554301.aspx"
+         }, {
+            "date_added": "13063947515680111",
+            "id": "9",
+            "name": "Set-Disk",
+            "type": "url",
+            "url": "http://technet.microsoft.com/en-us/library/hh848649.aspx"
+         }, {
+            "date_added": "13063947523288539",
+            "id": "10",
+            "name": "Sample: Configure UEFI/GPT-Based Hard Drive Partitions by Using Windows PE and DiskPart",
+            "type": "url",
+            "url": "http://technet.microsoft.com/en-us/library/hh825686.aspx"
+         }, {
+            "date_added": "13063947530087922",
+            "id": "11",
+            "name": "Muestras: Aplicación de particiones de Windows, del sistema y de recuperación mediante un script de implementación",
+            "type": "url",
+            "url": "http://msdn.microsoft.com/es-es/library/hh825089.aspx"
+         }, {
+            "date_added": "13063947533599943",
+            "id": "12",
+            "name": "Muestra: Configuración de particiones de disco duro basadas en UEFI/GPT mediante Windows PE y DiskPart",
+            "type": "url",
+            "url": "http://msdn.microsoft.com/es-es/library/hh825686.aspx"
+         }, {
+            "date_added": "13063947539872153",
+            "id": "13",
+            "name": "Format-Volume of GPTTYPE {c12a7328-f81f-11d2-ba4b-00a0c93ec93b} fails",
+            "type": "url",
+            "url": "https://social.technet.microsoft.com/Forums/windowsserver/en-US/0a1b6aeb-3d2d-48a5-93fa-b3061b9e90aa/formatvolume-of-gpttype-c12a7328f81f11d2ba4b00a0c93ec93b-fails?forum=winserverpowershell"
+         }, {
+            "date_added": "13063947554944157",
+            "id": "14",
+            "name": "Agregar un disco duro virtual para arranque nativo al menú de arranque",
+            "type": "url",
+            "url": "http://technet.microsoft.com/es-es/library/dd799299(v=ws.10).aspx"
+         }, {
+            "date_added": "13063947570983944",
+            "id": "15",
+            "name": "Introducción a Hyper-V",
+            "type": "url",
+            "url": "http://technet.microsoft.com/es-mx/library/hh831531.aspx"
+         }, {
+            "date_added": "13063953109193699",
+            "id": "17",
+            "name": "Cómo reparar Windows 8.1 sin disco, desde una memoria USB | El Truco Windows | Softonic",
+            "type": "url",
+            "url": "http://articulos.softonic.com/como-reparar-windows-8-1-sin-disco-desde-una-memoria-usb-truco-windows-semana-21-02-2014"
+         }, {
+            "date_added": "13063968339722925",
+            "id": "18",
+            "name": "September 2014 - Artículos - Checho's Blog",
+            "type": "url",
+            "url": "http://geeks.ms/blogs/checho/archive/2014/09.aspx"
+         }, {
+            "date_added": "13063968355523514",
+            "id": "19",
+            "name": "Catálogo de Microsoft Update",
+            "type": "url",
+            "url": "https://catalog.update.microsoft.com/v7/site/Thanks.aspx?id=140"
+         }, {
+            "date_added": "13063968373390536",
+            "id": "20",
+            "name": "Windows Recovery Boot Key(configured using ReAgentc.exe) is not activate before passing OOBE setup after using windows Recovery - Super User",
+            "type": "url",
+            "url": "http://superuser.com/questions/733984/windows-recovery-boot-keyconfigured-using-reagentc-exe-is-not-activate-before"
+         }, {
+            "date_added": "13064011422470417",
+            "id": "22",
+            "name": "Nueva pestaña",
+            "type": "url",
+            "url": "chrome://newtab/"
+         }, {
+            "date_added": "13064020938473302",
+            "id": "24",
+            "name": "Inyectar controladores a una imagen offline de Windows 8.1 utilizando DISM - Checho's Blog",
+            "type": "url",
+            "url": "http://geeks.ms/blogs/checho/archive/2014/09/21/inyectar-controladores-a-una-imagen-offline-de-windows-8-1-utilizando-dism.aspx"
+         }, {
+            "date_added": "13064044652476526",
+            "id": "26",
+            "name": "Descargas e instalación",
+            "type": "url",
+            "url": "http://www.microsoft.com/OEM/es/installation/Pages/index.aspx#fbid=EVTxIg7gsVZ"
+         }, {
+            "date_added": "13064054895306663",
+            "id": "27",
+            "name": "Implementación de Windows",
+            "type": "url",
+            "url": "http://www.microsoft.com/oem/es/installation/windows/Pages/index.aspx#fbid=EVTxIg7gsVZ"
+         }, {
+            "date_added": "13064054899714617",
+            "id": "28",
+            "name": "oem.microsoft.com/downloads/C433738F-4296-4FEF-AD6E-DE827E6B50F5/worldwide/EDT/EDT_User_Guide_English.pdf",
+            "type": "url",
+            "url": "http://oem.microsoft.com/downloads/C433738F-4296-4FEF-AD6E-DE827E6B50F5/worldwide/EDT/EDT_User_Guide_English.pdf"
+         }, {
+            "date_added": "13064054905682721",
+            "id": "29",
+            "name": "Windows 8 Launch Training - Adding Features Best Practices and Troubleshooting",
+            "type": "url",
+            "url": "http://oem.microsoft.com/downloads/worldwide/Windows_8/videos/default.htm#Windows 8 Launch Training/Adding Features Best Practices.htm"
+         }, {
+            "date_added": "13064054938322651",
+            "id": "30",
+            "name": "Windows RT 8.1, 8.1 de Windows y Windows Server R2 de 2012 actualización: abril de 2014",
+            "type": "url",
+            "url": "https://support.microsoft.com/kb/2919355?wa=wsignin1.0"
+         }, {
+            "date_added": "13064054946226246",
+            "id": "31",
+            "name": "Vistalizator - cambia el idioma de Windows Vista y Windows 7",
+            "type": "url",
+            "url": "http://www.froggie.sk/es/7lp64sp1.html"
+         }, {
+            "date_added": "13064054972314213",
+            "id": "32",
+            "name": "Enable or Disable Windows Features Using DISM",
+            "type": "url",
+            "url": "http://technet.microsoft.com/en-us/library/hh824822.aspx"
+         }, {
+            "date_added": "13064054976865701",
+            "id": "33",
+            "name": "Add-WindowsPackage",
+            "type": "url",
+            "url": "http://technet.microsoft.com/en-us/library/hh852164.aspx"
+         }, {
+            "date_added": "13064054985153535",
+            "id": "34",
+            "name": "What's new for Windows 8.1 display drivers (WDDM 1.3) (Windows Drivers)",
+            "type": "url",
+            "url": "http://msdn.microsoft.com/en-us/library/windows/hardware/dn265512(v=vs.85).aspx"
+         }, {
+            "date_added": "13064055001057135",
+            "id": "35",
+            "name": "Download Windows 8.1 Update for x64-based Systems (KB2919355) from Official Microsoft Download Center",
+            "type": "url",
+            "url": "http://www.microsoft.com/en-us/download/details.aspx?id=42335"
+         }, {
+            "date_added": "13064115144352297",
+            "id": "37",
+            "name": "Vistalizator - cambia el idioma de Windows Vista y Windows 7",
+            "type": "url",
+            "url": "http://www.froggie.sk/es/7lp32sp1.html"
+         }, {
+            "date_added": "13064115154229680",
+            "id": "38",
+            "name": "Windows 7 MUI Lenguaje Packs oficiales para 32-bit y 64-bit (Links directos) | SeMaToVe",
+            "type": "url",
+            "url": "http://sematove.wordpress.com/2010/01/05/windows-7-mui-lenguaje-packs-oficiales-para-32-bit-y-64-bit-links-directos/"
+         }, {
+            "date_added": "13064117216746282",
+            "id": "40",
+            "name": "OSCDIMG: Error Failure enumerating files in directory - Tech Support Guy",
+            "type": "url",
+            "url": "http://forums.techguy.org/windows-7/949670-oscdimg-error-failure-enumerating-files.html"
+         }, {
+            "date_added": "13064130510359854",
+            "id": "41",
+            "name": "Habilitar .NET Framework 3.5 en una imagen offline de Windows 8.1 utilizando PowerShell - Checho's Blog",
+            "type": "url",
+            "url": "http://geeks.ms/blogs/checho/archive/2014/06/17/habilitar-net-framework-3-5-en-una-imagen-offline-de-windows-8-1-utilizando-powershell.aspx"
+         }, {
+            "date_added": "13064130513799823",
+            "id": "42",
+            "name": "Creando instalación desatendida de Windows 7 con archivo de autorespuesta - Checho's Blog",
+            "type": "url",
+            "url": "http://geeks.ms/blogs/checho/archive/2010/06/23/creando-instalaci-243-n-desatendida-de-windows-7-con-archivo-de-autorespuesta.aspx"
+         }, {
+            "date_added": "13064130544079464",
+            "id": "43",
+            "name": "Oscdimg Command-Line Options",
+            "type": "url",
+            "url": "http://technet.microsoft.com/en-us/library/dd799243%28v=ws.10%29.aspx"
+         }, {
+            "date_added": "13064184185966572",
+            "id": "45",
+            "name": "Iluminación LED - Microclick SA de CV - Distribuidor de CCTV, Camaras de Seguridad, Iluminacion LED",
+            "type": "url",
+            "url": "http://www.microclick.com.mx/iluminacion-led_2/"
+         }, {
+            "date_added": "13064192755006384",
+            "id": "47",
+            "name": "TechNet Virtual Labs",
+            "type": "url",
+            "url": "http://technet.microsoft.com/en-us/virtuallabs"
+         }, {
+            "date_added": "13064193513466974",
+            "id": "48",
+            "name": "MEGA-faltalink",
+            "type": "url",
+            "url": "https://mega.co.nz/#!zQISyRyZ!NTejKDQVPqzbZEMsiQZE69VrQ8l3ivSYbI1Az-IhQLE"
+         }, {
+            "date_added": "13064205857572528",
+            "id": "49",
+            "name": "Descargas para suscriptores de MSDN",
+            "type": "url",
+            "url": "http://msdn.microsoft.com/subscriptions/downloads/?#searchTerm=&ProductFamilyId=545&Languages=es&PageSize=10&PageIndex=0&FileId=0"
+         }, {
+            "date_added": "13064205868508247",
+            "id": "50",
+            "name": "Windows 8.1 Pro VL with Update 3 Español - IntercambiosVirtuales",
+            "type": "url",
+            "url": "http://www.intercambiosvirtuales.org/sistemas-operativos/w1nd0ws-8-1-pr0-with-update-3-espanol"
+         }, {
+            "date_added": "13064225644018108",
+            "id": "51",
+            "name": "Activar la cuenta gratuita de azure para suscriptores MSDN - \\\\Brain\\Backup",
+            "type": "url",
+            "url": "http://geeks.ms/blogs/dsalgado/archive/2010/01/08/activar-la-cuenta-gratuita-de-azure-para-suscriptores-msdn.aspx"
+         }, {
+            "date_added": "13064227844389777",
+            "id": "53",
+            "name": "Download cbt nuggets cisco Torrents - Page 4 of 4 - KickassTorrents",
+            "type": "url",
+            "url": "https://kickass.so/usearch/cbt%20nuggets%20cisco/4/"
+         }, {
+            "date_added": "13064265571886582",
+            "id": "55",
+            "name": "como comprar productos de china por internet - Buscar con Google",
+            "type": "url",
+            "url": "https://www.google.com.mx/#q=como+comprar+productos+de+china+por+internet"
+         }, {
+            "date_added": "13064269267867637",
+            "id": "56",
+            "name": "20 de las mejores tiendas chinas para comprar online (vol.1)",
+            "type": "url",
+            "url": "http://mustzee.com/mejores-tiendas-chinas-online-1"
+         }, {
+            "date_added": "13064269689873878",
+            "id": "57",
+            "name": "EXPERIENCIA EN CHINA Las 4 mejores Tiendas Chinas Online para Comprar",
+            "type": "url",
+            "url": "http://www.experienciaenchina.com/las-4-mejores-tiendas-chinas-online-para-comprar/"
+         }, {
+            "date_added": "13064291319578484",
+            "id": "58",
+            "name": "Cómo crear múltiples particiones en una unidad de USB | eHow en Español",
+            "type": "url",
+            "url": "http://www.ehowenespanol.com/crear-multiples-particiones-unidad-usb-como_40502/"
+         }, {
+            "date_added": "13064295619490242",
+            "id": "59",
+            "name": "Paginas seguras para comprar en internet....compras a china. - Taringa!",
+            "type": "url",
+            "url": "http://www.taringa.net/post/info/12132642/Paginas-seguras-para-comprar-en-internet-compras-a-china.html"
+         }, {
+            "date_added": "13064295632234191",
+            "id": "60",
+            "name": "usb 3.0 - Free Shipping - DX",
+            "type": "url",
+            "url": "http://www.dx.com/es/s/usb+3.0"
+         }, {
+            "date_added": "13064310183646442",
+            "id": "61",
+            "name": "Windows and GPT FAQ (Windows Drivers)",
+            "type": "url",
+            "url": "http://msdn.microsoft.com/en-us/library/windows/hardware/dn640535(v=vs.85).aspx"
+         }, {
+            "date_added": "13064310188654463",
+            "id": "62",
+            "name": "EFI System partition - Wikipedia, the free encyclopedia",
+            "type": "url",
+            "url": "http://en.wikipedia.org/wiki/EFI_System_partition"
+         }, {
+            "date_added": "13064310192710424",
+            "id": "63",
+            "name": "Microsoft Reserved Partition - Wikipedia, the free encyclopedia",
+            "type": "url",
+            "url": "http://en.wikipedia.org/wiki/Microsoft_Reserved_Partition"
+         }, {
+            "date_added": "13064310201670233",
+            "id": "64",
+            "name": "nuevo esquemaWindows Image File Boot (WIMBoot) Overview",
+            "type": "url",
+            "url": "http://technet.microsoft.com/en-us/library/dn594399.aspx"
+         }, {
+            "date_added": "13064310215478453",
+            "id": "65",
+            "name": "Basic and Dynamic Disks (Windows)",
+            "type": "url",
+            "url": "http://msdn.microsoft.com/en-us/library/aa363785(VS.85).aspx"
+         }, {
+            "date_added": "13064316823035696",
+            "id": "66",
+            "name": "iphone tools - Free Shipping - DX",
+            "type": "url",
+            "url": "http://www.dx.com/es/s/iphone%2btools?PageIndex=3#sortBar"
+         }, {
+            "date_added": "13064316887795669",
+            "id": "67",
+            "name": "caddy - Free Shipping - DX",
+            "type": "url",
+            "url": "http://www.dx.com/s/caddy"
+         }, {
+            "date_added": "13064316892323797",
+            "id": "68",
+            "name": "Segundo segunda Caddy 12.7mm SATA a SATA 3.0 Caso SSD HDD HD 2.5 \"Controlador de disco duro externo Caja CD de DVD óptico Bay Portátil en Cajas HDD de Electrónica en AliExpress.com | Alibaba Group",
+            "type": "url",
+            "url": "http://es.aliexpress.com/item/Universal-SSD-HDD-HD-Hard-Disk-Driver-External-2nd-Caddy-SATA-3-0-Case-Enclosure-for/1587185924.html"
+         }, {
+            "date_added": "13064316900971781",
+            "id": "69",
+            "name": "Download cbt nuggets cisco Torrents - Page 2 of 4 - KickassTorrents",
+            "type": "url",
+            "url": "https://kickass.so/usearch/cbt%20nuggets%20cisco/2/"
+         }, {
+            "date_added": "13064391769944456",
+            "id": "71",
+            "name": "Instalar Samba en Fedora 20/19/18/17/16 - Compartir archivos e impresora entre Fedora 20/19/18/17/16 y Windows | TuxFed",
+            "type": "url",
+            "url": "http://tuxfed.blogspot.com.es/2013/03/compartir-archivos-e-impresora-entre.html"
+         }, {
+            "date_added": "13064554356114419",
+            "id": "73",
+            "name": "Index of /isos",
+            "type": "url",
+            "url": "http://www.comprayjuega.com/isos/"
+         }, {
+            "date_added": "13064554456373457",
+            "id": "74",
+            "name": "InformaticaAlMaximo: Descarga Windows 7 con SP1 - ISO oficiales, 32-bit & 64-bit en varios idiomas y ediciones desde Digital River",
+            "type": "url",
+            "url": "http://informaticalmaximo.blogspot.mx/p/descarga-windows-7-con-sp1-iso.html"
+         }, {
+            "date_added": "13064557402962588",
+            "id": "75",
+            "name": "Understanding Distribution Shares and Configuration Sets",
+            "type": "url",
+            "url": "http://technet.microsoft.com/en-us/library/dd744265(v=ws.10).aspx"
+         }, {
+            "date_added": "13064557461083334",
+            "id": "76",
+            "name": "Agregar un script personalizado al programa de instalación de Windows",
+            "type": "url",
+            "url": "http://technet.microsoft.com/es-mx/library/cc766314%28v=ws.10%29.aspx"
+         }, {
+            "date_added": "13064574524763622",
+            "id": "77",
+            "name": "Win Toolkit - WinCert.net Forums",
+            "type": "url",
+            "url": "http://www.wincert.net/forum/files/file/5-win-toolkit/"
+         }, {
+            "date_added": "13064574559523433",
+            "id": "78",
+            "name": "Download wireshark Torrents - Page 3 of 3 - KickassTorrents",
+            "type": "url",
+            "url": "https://kickass.so/usearch/wireshark/3/"
+         }, {
+            "date_added": "13064574562803173",
+            "id": "79",
+            "name": "ECHO OFF impide que las secuencias de escape ANSI con mensaje",
+            "type": "url",
+            "url": "http://support.microsoft.com/kb/71558/es"
+         }, {
+            "date_added": "13064638525987557",
+            "id": "81",
+            "name": "Cisco IOS Image for GNS3",
+            "type": "url",
+            "url": "https://gist.github.com/denji/ef4acd0ebf2928fd28a1"
+         }, {
+            "date_added": "13064638617479842",
+            "id": "82",
+            "name": "Índice de /pub/Cisco/IOS/7200/",
+            "type": "url",
+            "url": "ftp://ftp.unikon-ua.net/pub/Cisco/IOS/7200/"
+         }, {
+            "date_added": "13064639231045300",
+            "id": "83",
+            "name": "Alcatel-Lucent Virtualized Simulator on GNS3 | Brezular's Blog",
+            "type": "url",
+            "url": "http://brezular.com/2014/12/18/alcatel-lucent-virtualized-simulator-on-gns3/"
+         }, {
+            "date_added": "13064643358915485",
+            "id": "84",
+            "name": "Community Blog: Alcatel-Lucent Virtualized Simu... | GNS3",
+            "type": "url",
+            "url": "https://community.gns3.com/community/connect/community-blog/blog/2014/12/18/alcatel-lucent-virtualized-simulator-on-gns3"
+         }, {
+            "date_added": "13064643365963368",
+            "id": "85",
+            "name": "Índice de /pub/Cisco/IOS/",
+            "type": "url",
+            "url": "ftp://ftp.unikon-ua.net/pub/Cisco/IOS/"
+         }, {
+            "date_added": "13064801566652910",
+            "id": "87",
+            "name": "Download & Install GNS3 1.2 , IOS Router - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=w5C8sM6CAp4"
+         }, {
+            "date_added": "13064838640098564",
+            "id": "88",
+            "name": "Índice de /pub/Cisco/IOS/2800/2800nm/",
+            "type": "url",
+            "url": "ftp://ftp.unikon-ua.net/pub/Cisco/IOS/2800/2800nm/"
+         }, {
+            "date_added": "13065776984158123",
+            "id": "90",
+            "name": "Servidor DNS",
+            "type": "url",
+            "url": "http://technet.microsoft.com/es-es/windowsserver/dd448607.aspx"
+         }, {
+            "date_added": "13065777261360756",
+            "id": "91",
+            "name": "Crear sesion remota con PowerShell - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=RvRNKMnTXYg"
+         } ],
+         "date_added": "13063920498281295",
+         "date_modified": "13065777261360756",
+         "id": "1",
+         "name": "Barra de marcadores",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13063920498281298",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Otros marcadores",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13063920498281299",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Marcadores del móvil",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
